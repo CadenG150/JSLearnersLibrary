@@ -14,7 +14,8 @@ In your main.js file use some of the available commands.  Some examples are:
 ```javascript
 log("Hello World"); // This logs "Hello World" to the console
 write("Hi"); // This writes "Hi" to the DOM (basically puts "Hi" on the screen)
-createbutton("Test", "id1", "alert", "Hello"); // This creates a button with the text "Test", the id of "id1", and displays an alert of "Hello" whenever the button is clicked
+createbutton("Test", "id1", "alert", "Hello"); // This creates a button with the text "Test", 
+the id of "id1", and displays an alert of "Hello" whenever the button is clicked
 style("test", "color", "blue"); // This styles the element with the id "test" and turns its color blue
 style("test", "textalign", "center"); // This aligns the text in the element with the id "test" to the center
 doc("style"); // This displays documentation for the "style" function
