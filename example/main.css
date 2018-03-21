@@ -1,0 +1,15 @@
+body {
+  padding: 20px;
+}
+.id1 {
+  margin-top: 20px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: turquoise;
+  border: none;
+  display: flex;
+}
+.id1:hover {
+  background: darkturquoise;
+}
